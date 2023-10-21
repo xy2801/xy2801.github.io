@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en-US">
   <head>
@@ -18,7 +17,7 @@
 {"@type":"WebSite","headline":"xy2801.github.io","url":"https://xy2801.com/","name":"xy2801.github.io","@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
-    <link rel="stylesheet" href="assets/css/style0d60.css?v=53a55c4515174fcaa86498cad52cc2d91a66960f">
+    <link rel="stylesheet" href="/assets/css/style.css?v=53a55c4515174fcaa86498cad52cc2d91a66960f">
   </head>
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
@@ -65,7 +64,7 @@ visit <a href="https://xy2801.github.io/how2/">page</a></p>
     <p><a href="https://github.com/xy2801/annotation-leetcode">xy2801/annotation-leetcode: leetcode 练习学习笔记</a></p>
   </li>
   <li>
-    <p><a href=" ">xy2801/annotation-book-OnJava8-Examples: Code Examples for the book “On Java 8”</a></p>
+    <p><a href="https://github.com/xy2801/annotation-book-OnJava8-Examples">xy2801/annotation-book-OnJava8-Examples: Code Examples for the book “On Java 8”</a></p>
   </li>
   <li>
     <p><a href="https://github.com/xy2801/annotation-book-TIJ4-code">xy2801/annotation-book-TIJ4-code: Example code for the book “Thinking in Java, 4th Edition”</a></p>
@@ -84,10 +83,8 @@ visit <a href="https://xy2801.github.io/how2/">page</a></p>
 
       
     </div>
-    <script src="../cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
     <script>anchors.add();</script>
     
   </body>
-
-
 </html>
